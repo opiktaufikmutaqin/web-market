@@ -1,3 +1,6 @@
-#services img{
-    height: 120px;
+#services img {
+  height: 150px;
+}
+section {
+    padding-top: 5rem;
 }
